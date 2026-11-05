@@ -1,0 +1,21 @@
+# Entorno Python y cachés
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Dependencias y drivers locales de Appium
+node_modules/
+.appium/
+
+# Configuración local de PyCharm
+.idea/
+
+# Archivos de macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Evidencias generadas durante los tests
+artifacts/
